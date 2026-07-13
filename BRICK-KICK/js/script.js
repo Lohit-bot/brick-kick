@@ -1,0 +1,1 @@
+document.getElementById('cta').addEventListener('click',()=>{document.getElementById('menu').scrollIntoView({behavior:'smooth'});});
